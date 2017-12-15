@@ -1,0 +1,12 @@
+F:\CGS_Compleated\ArtGalleryWin\ArtGalleryWin\bin\Debug\ArtGalleryWin.exe.config
+F:\CGS_Compleated\ArtGalleryWin\ArtGalleryWin\bin\Debug\ArtGalleryWin.exe
+F:\CGS_Compleated\ArtGalleryWin\ArtGalleryWin\bin\Debug\ArtGalleryWin.pdb
+F:\CGS_Compleated\ArtGalleryWin\ArtGalleryWin\obj\Debug\ArtGalleryWin.csprojResolveAssemblyReference.cache
+F:\CGS_Compleated\ArtGalleryWin\ArtGalleryWin\obj\Debug\ArtGalleryWin.ArtGalleryWin.resources
+F:\CGS_Compleated\ArtGalleryWin\ArtGalleryWin\obj\Debug\ArtGalleryWin.CGSArt.resources
+F:\CGS_Compleated\ArtGalleryWin\ArtGalleryWin\obj\Debug\ArtGalleryWin.Properties.Resources.resources
+F:\CGS_Compleated\ArtGalleryWin\ArtGalleryWin\obj\Debug\ArtGalleryWin.csproj.GenerateResource.Cache
+F:\CGS_Compleated\ArtGalleryWin\ArtGalleryWin\obj\Debug\ArtGalleryWin.exe
+F:\CGS_Compleated\ArtGalleryWin\ArtGalleryWin\obj\Debug\ArtGalleryWin.pdb
+F:\CGS_Compleated\ArtGalleryWin\ArtGalleryWin\bin\Debug\CGS.dll
+F:\CGS_Compleated\ArtGalleryWin\ArtGalleryWin\bin\Debug\CGS.pdb

@@ -1,0 +1,8 @@
+F:\CGS_Compleated\ArtGallery\ArtGallery\bin\Debug\ArtGallery.exe.config
+F:\CGS_Compleated\ArtGallery\ArtGallery\bin\Debug\ArtGallery.exe
+F:\CGS_Compleated\ArtGallery\ArtGallery\bin\Debug\ArtGallery.pdb
+F:\CGS_Compleated\ArtGallery\ArtGallery\bin\Debug\CGS.dll
+F:\CGS_Compleated\ArtGallery\ArtGallery\bin\Debug\CGS.pdb
+F:\CGS_Compleated\ArtGallery\ArtGallery\obj\Debug\ArtGallery.csprojResolveAssemblyReference.cache
+F:\CGS_Compleated\ArtGallery\ArtGallery\obj\Debug\ArtGallery.exe
+F:\CGS_Compleated\ArtGallery\ArtGallery\obj\Debug\ArtGallery.pdb

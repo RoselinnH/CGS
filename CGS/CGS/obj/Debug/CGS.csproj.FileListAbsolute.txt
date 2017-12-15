@@ -1,0 +1,10 @@
+F:\CGS_Compleated\CGS\CGS\obj\Debug\CGS.csprojResolveAssemblyReference.cache
+F:\CGS_Compleated\CGS\CGS\bin\Debug\CGS.dll
+F:\CGS_Compleated\CGS\CGS\bin\Debug\CGS.pdb
+F:\CGS_Compleated\CGS\CGS\obj\Debug\CGS.dll
+F:\CGS_Compleated\CGS\CGS\obj\Debug\CGS.pdb
+C:\Users\Roselinn\Desktop\school\CGS_Compleated\CGS\CGS\bin\Debug\CGS.dll
+C:\Users\Roselinn\Desktop\school\CGS_Compleated\CGS\CGS\bin\Debug\CGS.pdb
+C:\Users\Roselinn\Desktop\school\CGS_Compleated\CGS\CGS\obj\Debug\CGS.csprojResolveAssemblyReference.cache
+C:\Users\Roselinn\Desktop\school\CGS_Compleated\CGS\CGS\obj\Debug\CGS.dll
+C:\Users\Roselinn\Desktop\school\CGS_Compleated\CGS\CGS\obj\Debug\CGS.pdb
